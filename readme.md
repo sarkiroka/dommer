@@ -1,2 +1,2 @@
 # dommer
-a dom manipulátor és összehasonlító, próbaalkalmazás az ide ötlethez.
+A dom manipulátor és összehasonlító, próbaalkalmazás az ide ötlethez.
