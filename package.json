@@ -1,0 +1,21 @@
+{
+  "name": "dommer",
+  "version": "1.0.0",
+  "description": "a dom összehasonlító és módosító",
+  "main": "server/index.js",
+  "scripts": {
+    "dommer": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "author": "sarkiroka",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "colors": "^1.1.2",
+    "path": "^0.12.7"
+  }
+}
