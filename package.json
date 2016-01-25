@@ -14,8 +14,8 @@
   "author": "sarkiroka",
   "license": "ISC",
   "dependencies": {
-    "async": "^1.5.2",
     "colors": "^1.1.2",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "r-async": "^1.0.0"
   }
 }
